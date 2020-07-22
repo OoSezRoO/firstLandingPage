@@ -1,5 +1,8 @@
 # Landing Page Project
 
+## Instructions
+
+This is my First Project which I used everything I have learned till now, I used CSS and Js to make my Static page looks life " dynamic ", and built the Navbar using JavaScript and function to activate the section we select from Navbar or we scrolled to.
 
 ## The Markup Languages I used :
 
@@ -21,6 +24,3 @@
 - The SectionActive Function
 
 
-## Instructions
-
-This is my First Project which I used everything I have learned till now, I used CSS and Js to make my Static page looks life " dynamic ", and built the Navbar using JavaScript and function to activate the section we select from Navbar or we scrolled to.
